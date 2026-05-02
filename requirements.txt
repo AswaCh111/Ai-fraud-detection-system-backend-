@@ -1,0 +1,19 @@
+# requirements.txt - Add these
+flask
+flask-cors
+flask-limiter
+flask-socketio
+python-dotenv
+numpy
+scikit-learn
+pillow
+opencv-python-headless
+PyPDF2
+PyJWT
+gunicorn
+eventlet
+joblib
+pandas
+openpyxl
+httpx
+reportlab
